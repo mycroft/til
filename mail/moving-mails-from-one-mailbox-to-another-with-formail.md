@@ -29,3 +29,7 @@ formail < ${JUNKBOX} >> ${TRASHBOX}
 rm -f ${JUNKBOX}
 touch ${JUNKBOX}
 ```
+
+## Resources
+
+- [formail(1)](https://linux.die.net/man/1/formail)
