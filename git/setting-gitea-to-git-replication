@@ -15,3 +15,8 @@ In your [gitea](https://gitea.com) instance, in an existing repository settings,
 
 Set `sync when commits are pushed` and that should do it.
 
+## Ressources
+
+- [gitea - Repository Mirror](https://docs.gitea.com/usage/repo-mirror)
+- [github - Scopes for OAuth apps](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/scopes-for-oauth-apps)
+
