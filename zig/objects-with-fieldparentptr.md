@@ -1,6 +1,6 @@
 # Objects modules in Zig with fieldParentPtr
 
-fieldParentPtr can be usefull in case it is required to create multiple kind of objects all based on a common type that can be passed to generic functions and then coerced to their original type. A usecase for this is a `Value` object that then will contain `string`, `number`, `bool`, `function`, `instance` when building a new language.
+`fieldParentPtr` can be useful in case it is required to create multiple kind of objects all based on a common type that can be passed to generic functions and then coerced to their original type. A usecase for this is a `Value` object that then will contain `string`, `number`, `bool`, `function`, `instance` when building a new language.
 
 ```sh
 $ mkdir zig-objects && cd zig-objects
@@ -21,6 +21,7 @@ const Allocator = std.mem.Allocator;
 // Self is our Object struct/module that will be the root object for each our types
 const Self = @This();
 
+// Defining object types
 pub const ObjType = enum {
     String,
 };
