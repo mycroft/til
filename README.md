@@ -10,6 +10,7 @@ A repository with some of my technical notes.
 
 ### git
 
+[Reading teh object tree](git/reading-object-tree.md)
 [Setting a replication between gitea and github](git/setting-gitea-to-git-replication.md)
 
 ### mail
