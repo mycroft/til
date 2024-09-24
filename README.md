@@ -7,6 +7,8 @@ A repository with some of my technical notes.
 ### ebpf
 
 - [Creating a basic eBPF app in C](ebpf/creating-basic-ebpf-app-in-c.md)
+- [Enabling or disabling tracing](ebpf/enabling-and-disabling-tracing.md)
+
 
 ### git
 
