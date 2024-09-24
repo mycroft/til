@@ -6,21 +6,21 @@ A repository with some of my technical notes.
 
 ### ebpf
 
-[Creating a basic eBPF app in C](ebpf/creating-basic-ebpf-app-in-c.md)
+- [Creating a basic eBPF app in C](ebpf/creating-basic-ebpf-app-in-c.md)
 
 ### git
 
-[Reading teh object tree](git/reading-object-tree.md)
-[Setting a replication between gitea and github](git/setting-gitea-to-git-replication.md)
+- [Reading the object tree](git/reading-object-tree.md)
+- [Setting a replication between gitea and github](git/setting-gitea-to-git-replication.md)
 
 ### mail
 
-[Moving mails from one mailbox to another with formail](mail/moving-mails-from-one-mailbox-to-another-with-formail.md)
+- [Moving mails from one mailbox to another with formail](mail/moving-mails-from-one-mailbox-to-another-with-formail.md)
 
 ### nix
 
-[Using a package clone in home-manager](nix/home-manager-using-cloned-package.md)
+- [Using a package clone in home-manager](nix/home-manager-using-cloned-package.md)
 
 ### zig
 
-[Objects modules in Zig with fieldParentPtr](zig/objects-with-fieldparentptr.md)
+- [Objects modules in Zig with fieldParentPtr](zig/objects-with-fieldparentptr.md)
