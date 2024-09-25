@@ -14,6 +14,7 @@ A repository with some of my technical notes.
 
 - [Reading the object tree](git/reading-object-tree.md)
 - [Setting a replication between gitea and github](git/setting-gitea-to-git-replication.md)
+- [Retrieve Github contributions with GraphQL](git/retrieve-github-contributions-with-graphql.md)
 
 ### mail
 
