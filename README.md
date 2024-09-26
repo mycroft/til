@@ -16,13 +16,21 @@ A repository with some of my technical notes.
 - [Setting a replication between gitea and github](git/setting-gitea-to-git-replication.md)
 - [Retrieve Github contributions with GraphQL](git/retrieve-github-contributions-with-graphql.md)
 
+
 ### mail
 
 - [Moving mails from one mailbox to another with formail](mail/moving-mails-from-one-mailbox-to-another-with-formail.md)
 
+
 ### nix
 
 - [Using a package clone in home-manager](nix/home-manager-using-cloned-package.md)
+
+
+### vim
+
+- [(neo)vim cheatsheet](vim/vim-cheatsheet.md)
+
 
 ### zig
 
