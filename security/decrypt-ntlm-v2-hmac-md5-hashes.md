@@ -41,3 +41,4 @@ JOHN.DOE::blah.local:<challenge>:<data>:<found password>
 
 - https://infosecwriteups.com/cracking-hashes-with-hashcat-2b21c01c18ec
 - https://hashcat.net/wiki/doku.php?id=example_hashes
+- https://www.vaadata.com/blog/fr/authentification-ntlm-principes-fonctionnement-et-attaques-ntlm-relay/
