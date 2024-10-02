@@ -4,6 +4,10 @@ A repository with some of my technical notes.
 
 ## Table of contents
 
+### cryptography
+
+- [Basic RSA with python](cryptography/basic-rsa-with-python.md)
+
 ### ebpf
 
 - [Creating a basic eBPF app in C](ebpf/creating-basic-ebpf-app-in-c.md)
