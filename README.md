@@ -28,6 +28,7 @@ A repository with some of my technical notes.
 
 ### nix
 
+- [Updating nix](nix/updating-nix.md)
 - [Using a package clone in home-manager](nix/home-manager-using-cloned-package.md)
 
 
