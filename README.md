@@ -26,6 +26,11 @@ A repository with some of my technical notes.
 - [Moving mails from one mailbox to another with formail](mail/moving-mails-from-one-mailbox-to-another-with-formail.md)
 
 
+### minio
+
+- [Basic Minio setup](minio/basic-setup.md)
+
+
 ### nix
 
 - [Updating nix](nix/updating-nix.md)
