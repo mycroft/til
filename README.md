@@ -37,6 +37,10 @@ A repository with some of my technical notes.
 - [Using a package clone in home-manager](nix/home-manager-using-cloned-package.md)
 
 
+### rust
+
+- [Crates](rust/crates.md)
+
 ### security
 
 - [Decrypt ntlm v2 hmac-md5 hashes with hashcat](security/decrypt-ntlm-v2-hmac-md5-hashes.md)
