@@ -43,6 +43,12 @@ A repository with some of my technical notes.
 - [Using a package clone in home-manager](nix/home-manager-using-cloned-package.md)
 
 
+### oci
+
+- [Cosign](oci/cosign.md)
+- [Notation / Notary v2](oci/notary.md)
+
+
 ### rust
 
 - [Crates](rust/crates.md)
